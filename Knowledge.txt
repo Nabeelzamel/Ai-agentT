@@ -1,0 +1,13 @@
+Paris is the capital city of France. It is known for the Eiffel Tower, the Louvre Museum, and the Seine River.
+Cairo is the capital of Egypt. It is located on the Nile River and is close to the ancient pyramids of Giza.
+London is the capital of the United Kingdom. It is famous for Big Ben, Buckingham Palace, and the River Thames.
+Tokyo is the capital of Japan. It is a major global financial hub and is known for technology, Shibuya crossing, and Mount Fuji nearby.
+New York City is the largest city in the United States. It is home to Times Square, Central Park, and the Statue of Liberty.
+Rome is the capital of Italy. It is known for the Colosseum, Roman Forum, and Vatican City.
+Beijing is the capital of China. It is famous for the Great Wall of China and the Forbidden City.
+The Nile River is the longest river in the world, flowing through Egypt, Sudan, and several other countries.
+The Sahara Desert is the largest hot desert in the world, spanning much of North Africa.
+Python is a popular programming language used in data science, machine learning, and web development.
+Streamlit is a Python framework that allows developers to build interactive web applications for machine learning and data visualization.
+Aya is 23 years old
+Aya joined Ejada on the 3rd of September 2025
